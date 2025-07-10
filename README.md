@@ -1,3 +1,19 @@
+# 🧪 Automação de Testes com Playwright
+
+Olá! Me chamo **Rhuan Quadros**, sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta em automação, desenvolvimento de software e qualidade de código.
+
+Este repositório tem como objetivo apresentar uma **automação de testes de interface (UI)** desenvolvida com o framework [**Playwright**](https://playwright.dev/). O foco deste projeto é simular e validar o fluxo de compra de diferentes tipos de usuários dentro de um sistema web.
+
+Cada usuário apresenta um comportamento distinto, o que permite testar desde casos de sucesso até situações de erro, lentidão ou inconsistências visuais. A automação cobre os seguintes pontos:
+
+- Login com múltiplos perfis
+- Navegação e seleção de produtos
+- Validação de mensagens de erro e travas
+- Finalização de compra
+- Performance da aplicação
+
+Abaixo estão as **demonstrações em vídeo** (GIFs) dos testes automatizados em execução para cada tipo de usuário.
+
 ## 🎥 Demonstração dos Testes Automatizados para Usuários
 
 <table>
@@ -56,3 +72,10 @@
     </td>
   </tr>
 </table>
+
+## 🤝 Contato
+
+Espero que você tenha gostado deste projeto!  
+Se tiver interesse em mim ou no meu trabalho, sinta-se à vontade para entrar em contato.
+
+📬 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rhuan-doin-quadros/) — será um prazer trocar ideias!
